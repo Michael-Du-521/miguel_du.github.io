@@ -10940,6 +10940,14 @@ p.lead {
   background-color: #bd5d38;
 }
 
+.wechat_qr {
+  width:500px;          /* ← change this value to make it smaller/larger */
+  height: auto;          /* keeps aspect ratio */
+  display: block;        /* removes unwanted bottom gap in most cases */
+  /* optional: */
+  margin: 10px auto;     /* centers it nicely */
+}
+
 .dev-icons {
   font-size: 3rem;
 }
