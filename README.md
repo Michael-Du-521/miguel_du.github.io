@@ -1,5 +1,3 @@
-# miguel_du.github.io
-Miguel_Du's personal website which contains his introduction and soon
-## Introduction
-## Interests
+# Mingrui Du's Resume WebSite
+Mingrui Du's personal website which contains his introduction and skillset
 
