@@ -10950,6 +10950,11 @@ p.lead {
   font-size: 3rem;
 }
 
+.social_media_qr{
+  border: dashed green;
+}
+
+
 section.resume-section {
   display: flex;
   align-items: center;
